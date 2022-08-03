@@ -1,6 +1,7 @@
 package me.dio.businesscard.UI
 
 import android.content.Intent
+import gitandroid.content.Intent
 import android.media.Image
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
